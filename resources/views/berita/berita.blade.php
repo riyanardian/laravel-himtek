@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('container')
-    <center><h1>Kelola Data Berita</h1></center>
+    <center><h1>Keelola Data Berita</h1></center>
     <button type="button" onclick="window.location='/olah-berita/create'" class="btn btn-primary">
             <i class="fa fa-plus"></i> Add
     </button>
